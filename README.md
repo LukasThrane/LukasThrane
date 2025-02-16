@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at ssesh<br>🌱 I’m currently learning Rust and Flutter
+🔭 I’m currently working at ssesh<br>🌱 I’m currently learning Rust
 
 
 ## 🌐 Socials:
