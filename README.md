@@ -11,7 +11,7 @@ Fullstack developer at **ssesh** since its inception — an app designed to help
 ---
 
 ## 🔹 [NTNU SmallSatLab](https://hypso.space/)
-Contributor to the outreach website for the NTNU Small Satellite Laboratory — promoting nanosatellite missions like HYPSO.
+Helped develop the outreach website for NTNU SSL
 
 ---
 
