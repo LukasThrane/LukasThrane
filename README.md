@@ -10,8 +10,8 @@ Fullstack developer at **ssesh** since its inception — an app designed to help
 
 ---
 
-## 🔹 [NTNU SmallSatLab](https://hypso.space/)
-Helped develop the outreach website for NTNU SSL
+## 🔹 [NTNU SmallSat Lab](https://hypso.space/)
+Helped develop the outreach website for NTNU SmallSat Lab
 
 ---
 
