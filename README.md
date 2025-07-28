@@ -1,4 +1,4 @@
-# My Projects
+# Project I've worked on
 
 ## 🔹 [Graidable](https://graidable.com/)
 Founded and developed **Graidable.com** — a copilot for educators to streamline grading and feedback.
