@@ -1,9 +1,14 @@
-# My projects
-## <a href="https://graidable.com/">Graidable</a>
-Founded and developed Graidable.com, copilot for educators.
+# My Projects
 
-## <a href="https://www.ssesh.no/">ssesh</a>
-Fullstack developer for ssesh since the beginning of the company, an app for improving student focus.
+## 🔹 [Graidable](https://graidable.com/)
+Founded and developed **Graidable.com** — a copilot for educators to streamline grading and feedback.
 
+---
 
-### For business inquiries: <a href="mailto:lukas@thrane.name">lukas@thrane.name</a> 
+## 🔹 [ssesh](https://www.ssesh.no/)
+Fullstack developer at **ssesh** since its inception — an app designed to help students improve focus and productivity.
+
+---
+
+### 📬 Business Inquiries  
+Feel free to reach out: [lukas@thrane.name](mailto:lukas@thrane.name)
