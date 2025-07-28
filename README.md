@@ -6,4 +6,4 @@ Founded and developed Graidable.com, copilot for educators.
 Fullstack developer for ssesh since the beginning of the company, an app for improving student focus.
 
 
-### <a href="mailto:lukas@thrane.name">For business inquiries</a> 
+### For business inquiries: <a href="mailto:lukas@thrane.name">lukas@thrane.name</a> 
