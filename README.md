@@ -11,4 +11,4 @@ Fullstack developer at **ssesh** since its inception — an app designed to help
 ---
 
 ### 📬 Business Inquiries  
-Feel free to reach out: [lukas@thrane.name](mailto:lukas@thrane.name)
+Contact: [lukas@thrane.name](mailto:lukas@thrane.name)
