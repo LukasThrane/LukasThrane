@@ -5,8 +5,8 @@ Founded and developed **Graidable.com** — a copilot for educators to streamlin
 
 ---
 
-## 🔹 [ssesh](https://www.ssesh.no/)
-Fullstack developer at **ssesh** since its inception — an app designed to help students improve focus and productivity.
+## 🔹 [Ssesh](https://www.ssesh.no/)
+Fullstack developer at **ssesh** for its first year of development — an app designed to help students improve focus and productivity.
 
 ---
 
